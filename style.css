@@ -1,0 +1,76 @@
+/*header{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+header nav ul{
+    padding: 10px;
+}
+header nav ul li{
+    color: rgb(255, 255, 255) ;
+    display: inline;
+    padding: 40px;
+}
+
+header nav ul li a{
+    color: rgb(46, 46, 203);
+    text-decoration: non
+}
+
+#home img{
+    border-radius: 50%;
+    text-align: center;
+    
+}
+    */
+    body{
+        text-align: center;
+        background-image: url('');
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        background-attachment: fixed;
+      header{
+          background-color: black;
+          text-align: center;
+      }
+      
+      header h1{
+          color: whitesmoke;
+      }
+      
+      header nav ul li{
+          color: sandybrown;
+          display: inline;
+          padding: 5px;
+      }
+      
+      header nav ul li a{
+          color:saddlebrown;
+          text-decoration: none;
+          
+      }
+      
+      main h1{
+          text-align: center;
+      }
+      main img{
+          border-radius: 80px;
+          margin-left: 12px;
+      }
+      main p{
+          text-align: center;
+          
+      margin-inline: 300px;
+      }
+      #p5{
+          background-color: rgba(255, 255, 0, 0.511);
+      }
+      #Skills ul li {
+          display: inline;
+          padding: 5px;
+      }
+      }
